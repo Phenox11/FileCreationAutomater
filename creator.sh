@@ -1,5 +1,5 @@
 #! /bin/bash
 
-python automator.py $1
+python a.py $1
 echo "creating repo"
 
